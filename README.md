@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fedosk.github.io/rsschool-cv/cv
