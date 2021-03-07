@@ -103,6 +103,10 @@ footer {
     margin-top: 10px;
 }
 
-.social {
-    margin-right: 10px;
+.social-list {
+    list-style-type: none;
+    display: flex;
+}
+.social-item {
+    margin: 5px;
 }
