@@ -98,6 +98,8 @@ footer {
     right: 125px;
 }
 
+
+
 .social-network {
     display: flex;
     margin-top: 10px;
@@ -106,6 +108,7 @@ footer {
 .social-list {
     list-style-type: none;
     display: flex;
+    margin-top: 5px;
 }
 .social-item {
     margin: 5px;
